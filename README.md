@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # PPE Detection Project
 
@@ -42,13 +42,3 @@ jupyter notebook train_n_video_test.ipynb
 ## Model Weights
 Pre-trained weights are included in the `data/weights/` directory for different classes (helmet, vest, hairnet, and mask).
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-For further assistance, feel free to open an issue or contact the author.
-=======
-# PPE-detection
-helmet/hardhat, safety vest, mask, hair-net detection on video 
->>>>>>> 40847917ff967b0a528dc22e50b83f38dfee0809
