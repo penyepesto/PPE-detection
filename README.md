@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # PPE Detection Project
 
@@ -47,3 +48,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 For further assistance, feel free to open an issue or contact the author.
+=======
+# PPE-detection
+helmet/hardhat, safety vest, mask, hair-net detection on video 
+>>>>>>> 40847917ff967b0a528dc22e50b83f38dfee0809
